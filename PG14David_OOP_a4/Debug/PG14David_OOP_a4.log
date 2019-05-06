@@ -1,0 +1,3 @@
+﻿  PG14David_OOP_a4.cpp
+c:\users\david parra\desktop\pg14david_oop_a4\pg14david_oop_a4\pg14david_oop_a4.cpp(143): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PG14David_OOP_a4.vcxproj -> C:\Users\David Parra\Desktop\PG14David_OOP_a4\Debug\PG14David_OOP_a4.exe
